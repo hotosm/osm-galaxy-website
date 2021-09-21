@@ -1,3 +1,3 @@
 # OSM Galaxy Site
 
-This site offers a brief description on what the OSM Galaxy project is about and provides links to related resources.
+This site offers a brief description on OSM Galaxy project and provides links to related resources.
